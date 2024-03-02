@@ -1,1 +1,2 @@
 # Die
+basic dice generator
